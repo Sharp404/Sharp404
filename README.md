@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Sharp, a passionate cybersecurity specialist and CTF player.
+
+Exploring and advancing my skills in Blue Team operations, with a focus on incident response and threat hunting.
+
+📫 *Feel free to connect and share insights!*
+
 <!--
 **Sharp404/Sharp404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
